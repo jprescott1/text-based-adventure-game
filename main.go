@@ -1,11 +1,7 @@
 package main
 
-import (
-	"fmt"
-)
+import "log"
 
 func main() {
-
-	fmt.Println("Hello, text based adventurer!")
-
+	log.Print("Hello, Text based adventurer! You look swell today!")
 }
